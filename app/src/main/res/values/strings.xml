@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestScand</string>
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+    <string name="price">Price:</string>
+    <string name="buy">Buy</string>
+    <string name="refactor">refactor</string>
+    <string name="delete">delete</string>
+</resources>
